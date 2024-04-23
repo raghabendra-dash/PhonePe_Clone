@@ -20,7 +20,7 @@ OTP: `123456`
 ### How to Run
 
 Clone the project:
-`git clone https://github.com/raghabendra-dash\.git`
+`git clone https://github.com/raghabendra-dash/PhonePe-Gateway-System.git`
 
 Install dependencies:
 `npm install`
