@@ -1,6 +1,6 @@
 ## PhonePe-Payment-Integration
 
-Welcome to the Node.js Express PhonePe Payment Gateway Integration System! This project demonstrates the seamless integration of the PhonePe payment gateway into a Node.js and Express application. Follow the comprehensive guide below to set up the payment gateway for User Acceptance Testing (UAT).
+Welcome to the Node.js Express PhonePe Payment Gateway Integration System! This project demonstrates the seamless integration of the PhonePe payment gateway into a Node.js and Express application.
 
 > Hosted-  (https://phonepe-gateway-system.onrender.com/)
 
