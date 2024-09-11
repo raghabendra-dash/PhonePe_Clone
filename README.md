@@ -55,4 +55,3 @@ Parameters: amount (query parameter)
 Method: GET
 Endpoint: /payment/validate/:merchantTransactionId
 
-Happy coding!
